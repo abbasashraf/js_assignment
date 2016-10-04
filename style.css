@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    width: 65%;
+    margin: 0 auto;
+    border: 60px solid #070626;
+    border-radius: 10px;
+    border-top: 20px solid #070626;
+    box-shadow: 10px 10px 10px #070626;
+    
+}
+
+.div1{
+    width: ;
+    float: left;
+    display: inline-block;
+}
+.div2{
+    
+    display: inline-block;
+    float: left;
+}
+#h2{
+    text-align: center;
+    color: #1C529C;
+    text-shadow: 0px 01px 3px black;
+}
+#logoimg{
+    text-align: center;
+}
+.detail{
+    width: 100%;
+    line-height: 2.5em;
+    text-indent: 10em;
+    color: #90C43E;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#advimg{
+   width: 40%;
+   text-align: right;
+   margin-left: 59%;
+}
+span{
+    color: #1C529C;
+    
+}
